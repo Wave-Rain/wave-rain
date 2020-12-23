@@ -7,13 +7,13 @@ title: 小猪快跑
 subtitle: run run run run run
 description: Pig run!
 keywords:
-author: John Doe
+author: Wave Rain
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: http://wave-rain.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
